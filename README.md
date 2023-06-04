@@ -1,5 +1,5 @@
 <center>
-<h1> INSTAGRAM CLONE </h1>
+<h1> ConnectU Application </h1>
 </center>
 <center>
 <a href="Java url">
